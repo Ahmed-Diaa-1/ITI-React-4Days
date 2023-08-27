@@ -1,0 +1,10 @@
+.header__nav {
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+    margin-inline-start: auto;
+}
+.header__nav a.active{
+    font-weight: bold;
+    border-block-end: 2px solid var(--black);
+}

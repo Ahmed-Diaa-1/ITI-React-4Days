@@ -1,0 +1,7 @@
+footer{
+    display: grid;
+    place-content: center;
+    padding-block: 1rem;
+    background-color: var( --raisin-black);
+    color: var(--white);
+}

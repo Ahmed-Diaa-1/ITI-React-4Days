@@ -1,0 +1,9 @@
+.main__layout{
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    row-gap: 3rem;
+}
+.main__layout>main{
+background-color: var(--bright-gray);
+}

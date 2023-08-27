@@ -1,0 +1,28 @@
+.card {
+  align-items: center;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.card-body {
+  flex: 1;
+}
+
+.cardStyle {
+  text-align: center;
+  margin: 10px;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: all 0.4s;
+}
+.cardStyle:hover {
+  transform: translateY(-1.2rem);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
+}
+
+.navLinkAnchor:hover {
+  color: #0d6efd;
+}
