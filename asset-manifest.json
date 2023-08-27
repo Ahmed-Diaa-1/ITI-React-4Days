@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ITI-React-4Days/static/css/main.18e84406.css",
+    "main.js": "/ITI-React-4Days/static/js/main.a6253c23.js",
+    "index.html": "/ITI-React-4Days/index.html",
+    "main.18e84406.css.map": "/ITI-React-4Days/static/css/main.18e84406.css.map",
+    "main.a6253c23.js.map": "/ITI-React-4Days/static/js/main.a6253c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e84406.css",
+    "static/js/main.a6253c23.js"
+  ]
+}
